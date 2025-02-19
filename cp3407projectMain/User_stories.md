@@ -5,3 +5,5 @@
 4. Archive Job info 40 
 5. Look-Up Job info 30
 6. Display next Job info 20
+7. Order Cleaning Supplies 50
+8. GPS Directions to Job 50 
