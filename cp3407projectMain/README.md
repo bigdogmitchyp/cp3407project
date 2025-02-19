@@ -26,24 +26,25 @@ Total: YY days
 * Update the following during each week prac session
 * During pracs, you may experiment with using other GitHub ways of tracking changes, e.g. via pull requests.
 
-1. [user story title](./user_stories/Add jobs), priority XX, YY days 
-2. ...
-
-Total: YY days
+1. [Add Jobs](./user_stories/Add%20jobs.md), priority 10, 4 days  
+2. [Cloud File System](./user_stories/Cloud%20File%20System.md), priority 20, 5 days 
+3. [Display next Job info](./user_stories/Display%20next%20Job%20info.md), priority 20, 4 days
+Total: 13 days
 
 
 ### Iteration 2 [duration 3-4 weeks], add your start and end dates
 Goal is to have 2 iterations during a trimester of teaching.
-1. [user story title](./user_stories/Add jobs), priority XX, YY days 
-2. ...
+1. [Archive jobs](./user_stories/Archive%20Jobs.md), priority 30, 6 days
+2. [Edit Job info](./user_stories/Edit%20Job%20info.md), priority 30, 6 days
+3. [Look-up Job info](./user_stories/Look-up%20Job%20info.md), priority 30, 6 days
 
-Total: YY days
+Total: 18 days
 
 ### Not enough time/developers: 
-1. [user story title](./user_stories/Add jobs), priority XX, YY days 
-2. ...
+1. [Order Cleaning Supplies](./user_stories/Order%20Cleaning%20Supplies.md), priority 30, 14 days
+2. [GPS Directions to Job](./user_stories/GPS%20Directions%20to%20Job.md), priority 30, 10 days 
 
-Total: YY days
+Total: 24 days
 
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
