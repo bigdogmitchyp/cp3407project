@@ -1,6 +1,6 @@
 # List of User Stories
 1. Add Jobs 10
-2. Cloud File System  20
+2. Cloud File System 20
 3. Edit Job info 30
 4. Archive Job info 40 
 5. Look-Up Job info 30
