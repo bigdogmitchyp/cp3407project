@@ -14,18 +14,10 @@ It is recommended to complete this assignment in a group of 2-4 students.
 Checklist/TODOs:
 * User stories are correct: see p39
 * Must have more user stories than fits into iterations 1 and 2. To practice the priority.
-* [user story title](./user_stories/Add jobs), priority XX, YY days 
-* ...
 
 Total: YY days
 
-
-## Iteration 1 [duration 3-4 weeks], add your start and end dates 
-
-* Goal is to have 2 iterations during a trimester of teaching.
-* Update the following during each week prac session
-* During pracs, you may experiment with using other GitHub ways of tracking changes, e.g. via pull requests.
-
+## Iteration 1 [duration 3-4 weeks], add your start and end dates
 1. [Add Jobs](./user_stories/Add%20jobs.md), priority 10, 4 days  
 2. [Cloud File System](./user_stories/Cloud%20File%20System.md), priority 20, 5 days 
 3. [Display next Job info](./user_stories/Display%20next%20Job%20info.md), priority 20, 4 days
@@ -33,12 +25,11 @@ Total: 13 days
 
 
 ### Iteration 2 [duration 3-4 weeks], add your start and end dates
-Goal is to have 2 iterations during a trimester of teaching.
 1. [Archive jobs](./user_stories/Archive%20Jobs.md), priority 30, 6 days
-2. [Edit Job info](./user_stories/Edit%20Job%20info.md), priority 30, 6 days
+2. [Edit Job info](./user_stories/Edit%20Job%20info.md), priority 20, 5 days
 3. [Look-up Job info](./user_stories/Look-up%20Job%20info.md), priority 30, 6 days
 
-Total: 18 days
+Total: 17 days
 
 ### Not enough time/developers: 
 1. [Order Cleaning Supplies](./user_stories/Order%20Cleaning%20Supplies.md), priority 30, 14 days
